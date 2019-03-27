@@ -1,7 +1,8 @@
+# About this list
 
-A list of disposable email domains that are still functioning. 
+This is a validated, cleaned, and up-to-date list of domains used by disposable email services that are still functioning at the time of validation.
 
-# Disposable email
+# What is disposable email?
 
 Disposable email addresses are known as DEA or dark mail. It is a kind of service that generates a unique or random email address that is used for every contact or entity.
 
@@ -11,8 +12,12 @@ The administrators could use this list to prevent potentially fraudulent activit
 
 # Approach
 
-This list had been filtered by scanning the MX records. Only the domains that still had valid MX records were kept in this list.
+This list has been validated by scanning the MX records. Only the domains that still had valid MX records were kept in this list. Duplicated items were removed.
 
-# Sources
+# Source
 
-The raw data was originally sourced from [disposable-email-domains](https://github.com/ivolo/disposable-email-domains).
+The raw data was periodically collected from the following sources:
+
+- [disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
+- [disposable-email-provider-domains](https://gist.github.com/michenriksen/8710649)
+
