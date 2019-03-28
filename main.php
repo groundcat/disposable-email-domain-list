@@ -48,10 +48,10 @@ while(! feof($file))
     $domain = str_replace(array("\n", "\r"), '', $domain);
 
     if (mxrecordValidate($domain)) {
-        // This MX records exists.Valid Email Address.
+        // This MX records exists. Valid Email Domain.
         $outputline = $domain."\n";
     } else {
-        //No MX record exists.Invalid Email.//
+        // No MX record exists. Invalid Email Domain.
         $outputline ="";
     }
     echo $outputline;
@@ -69,5 +69,20 @@ fclose($file);
 
 // Delete domains-unvalidated.txt
 unlink('domains-unvalidated.txt');
+
+// Convert domains.txt into domains.json
+
+header('Content-type: application/json');
+$fp    = 'domains.txt';
+// get the contents of file in array
+$conents_arr   = file($fp,FILE_IGNORE_NEW_LINES);
+foreach($conents_arr as $key=>$value)
+{
+    $conents_arr[$key]  = rtrim($value, "\r");
+}
+var_dump($conents_arr);
+$json_contents = json_encode($conents_arr);
+// echo $json_contents;
+file_put_contents('domains.json', $json_contents);
 
 ?>
