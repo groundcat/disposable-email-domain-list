@@ -2,6 +2,8 @@
 
 In `domains.txt` is a validated, cleaned, and up-to-date list of domains used by temporary and disposable email services that are still functioning at the time of the validation.
 
+![demo.gif](demo.gif?raw=true)
+
 # What is disposable email?
 
 [Disposable email addresses](http://en.wikipedia.org/wiki/Disposable_email_address) are known as DEA or dark mail. It is a kind of service that generates a unique or random email address that is used for every contact or entity.
