@@ -3,3 +3,4 @@
 *.xml
 .DS_Store
 .idea/vcs.xml
+cron.sh
