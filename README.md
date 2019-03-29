@@ -1,8 +1,10 @@
 # Disposable Email Domain List
 
-In `domains.txt` is a validated, cleaned, and up-to-date list of domains used by temporary and disposable email services that are still functioning at the time of the validation.
+This is a validated, cleaned, and up-to-date list of domains used by temporary and disposable email services that are still functioning at the time of the validation.
 
-![demo.gif](demo.gif?raw=true)
+# Download
+
+You can download this list in [txt format](https://raw.githubusercontent.com/yzyjim/disposable-email-domain-list/master/domains.txt) or [JSON format](https://raw.githubusercontent.com/yzyjim/disposable-email-domain-list/master/domains.json).
 
 # What is disposable email?
 
@@ -14,11 +16,13 @@ The administrators could use this list to prevent potentially fraudulent activit
 
 # Approach
 
-This list has been validated by scanning the MX records. Only the domains that still had valid MX records were kept in this list. Duplicated items were removed. Therefore, this list has been made as short as possible.
+This list is periodically retrieved and validated by scanning the MX records. Only the domains that still had MX records were kept in this list. Duplicated items were removed. Therefore, this list has been made as short as possible.
+
+![demo.gif](demo.gif?raw=true)
 
 # Source
 
-The raw data was periodically collected from the following sources:
+The raw data was periodically collected from these repositories:
 
 - [disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
 - [disposable-email-provider-domains](https://gist.github.com/michenriksen/8710649)
@@ -29,5 +33,9 @@ If you want to build such a list on your own, run `main.php` to automatically re
 
 # Contribution
 
-This project does not accept contribution of new domains because it simply retrieves and cleans data from the sources listed above. You can add new disposable domains to ivolo's [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) repository. Read its [contributing section](https://github.com/ivolo/disposable-email-domains#contributing) for details.
+This repository does not accept contribution of new domains because it simply retrieves and cleans data from the sources listed above. You can add new disposable domains to ivolo's [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) repository. Read its [contributing section](https://github.com/ivolo/disposable-email-domains#contributing) for details.
+
+# License
+
+This project is licensed under the MIT License - read the [LICENSE](LICENSE) file for details.
 
