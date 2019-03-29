@@ -4,7 +4,9 @@
 $listA = file_get_contents('https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json');
 $listB = file_get_contents('https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/wildcard.json');
 $listC = file_get_contents('https://gist.githubusercontent.com/michenriksen/8710649/raw/e09ee253960ec1ff0add4f92b62616ebbe24ab87/disposable-email-provider-domains');
-$list = $listA . $listB . $listC;
+$listD = file_get_contents('https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf');
+$listE = file_get_contents('https://github.com/GeroldSetz/emailondeck.com-domains/raw/master/emailondeck.com_domains_from_bdea.cc.txt');
+$list = $listA . $listB . $listC . $listD . $listE;
 
 // Clean format
 $list = str_replace(array(',', '"', '[', ']', ' '), '' , $list);
