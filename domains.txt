@@ -1652,7 +1652,6 @@ jo-mail.com
 job.craigslist.org
 jobposts.net
 jobs-to-be-done.net
-joelpet.com
 joetestalot.com
 johnpo.tk
 jorosc.cf
@@ -1689,7 +1688,6 @@ junk.beats.org
 junk.ihmehl.com
 junk.to
 junk1e.com
-junkmail.ga
 justnowmail.com
 juyouxi.com
 jv6hgh1.com
@@ -2476,6 +2474,7 @@ objectmail.com
 obo.kr
 obobbo.com
 obxpestcontrol.com
+odaymail.com
 odnorazovoe.ru
 oerpub.org
 offsetmail.com
@@ -2582,7 +2581,6 @@ pb-shelley.tk
 pcmylife.com
 pcusers.otherinbox.com
 pdold.com
-pecinan.com
 pecinan.net
 pecinan.org
 pecmail.tk
@@ -3014,6 +3012,7 @@ slaskpost.rymdprojekt.se
 slave-auctions.net
 slippery.email
 slipry.net
+slopsbox.com
 slothmail.net
 sltmail.com
 slushmail.com
@@ -3035,7 +3034,6 @@ sneakmail.de
 snkmail.com
 snkml.com
 so-com.tk
-socialviplata.club
 socialxbounty.info
 sofort-mail.de
 sofortmail.de
@@ -3910,7 +3908,6 @@ zanichelli.tk
 zarweek.tk
 zasod.com
 zbpefn95saft.ml
-zchatz.ga
 zdenka.net
 zdfpost.net
 zebins.com
