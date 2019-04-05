@@ -32,59 +32,108 @@ file_put_contents('domains-unvalidated.txt', $list);
 // Empty domains.txt
 file_put_contents('domains.txt', "");
 
+
 // Validate domains
 
-function mxrecordValidate($domain) {
-    $arr = dns_get_record($domain, DNS_MX);
-    if ($arr[0]['host'] == $domain && !empty($arr[0]['target'])) {
-        return $arr[0]['target'];
+    function mxrecordValidate($domain) {
+        $arr = dns_get_record($domain, DNS_MX);
+        if ($arr[0]['host'] == $domain && !empty($arr[0]['target'])) {
+            return $arr[0]['target'];
+        }
     }
-}
 
-$file = fopen("domains-unvalidated.txt", "r");
-$i=0;
+    $file = fopen("domains-unvalidated.txt", "r");
+    $i=0;
 
-while(! feof($file))
-{
-    $domain = fgets($file); // Read one line
-    $domain = str_replace(array("\n", "\r"), '', $domain);
+    while(! feof($file))
+    {
+        $domain = fgets($file); // Read one line
+        $domain = str_replace(array("\n", "\r"), '', $domain);
 
-    if (mxrecordValidate($domain)) {
-        // This MX records exists. Valid Email Domain.
-        $outputline = $domain."\n";
-    } else {
-        // No MX record exists. Invalid Email Domain.
-        $outputline ="";
+        if (mxrecordValidate($domain)) {
+            // This MX records exists. Valid Email Domain.
+            $outputline = $domain."\n";
+        } else {
+            // No MX record exists. Invalid Email Domain.
+            $outputline ="";
+        }
+        echo $outputline;
+        $outputfile="domains.txt";
+        $handle=fopen($outputfile,"a+");
+
+        $str=fwrite($handle, $outputline);
+        fclose($handle);
+
+        $i++;
+
     }
-    echo $outputline;
-    $outputfile="domains.txt";
-    $handle=fopen($outputfile,"a+");
 
-    $str=fwrite($handle, $outputline);
-    fclose($handle);
-
-    $i++;
-
-}
-
-fclose($file);
+    fclose($file);
 
 // Delete domains-unvalidated.txt
-unlink('domains-unvalidated.txt');
+
+    unlink('domains-unvalidated.txt');
+
+
+// Remove whitelisted domains
+
+    function encode($file) {
+        $lines = file($file);
+        $handle = fopen($file, 'w+');
+        foreach ($lines as $line)
+        {
+            if ($line!="") {
+                fwrite($handle, base64_encode(trim($line)) . "\n");
+            }
+        }
+        fclose($handle);
+    }
+
+    function decode($file) {
+        $lines = file($file);
+        $handle = fopen($file, 'w+');
+        foreach ($lines as $line)
+        {
+            if ($line!="") {
+                fwrite($handle, base64_decode(trim($line))."\n");
+            }
+        }
+        fclose($handle);
+    }
+
+    encode('domains.txt');
+    encode('whitelist.txt');
+
+    $whitelist = file_get_contents("whitelist.txt") or die("Cannot read file");
+    $whitelist=preg_replace("/[\n\r]/","|",$whitelist);
+    $whitelist=preg_replace("/[=]/","",$whitelist);
+
+    // Remove whitelist items
+    $list = file_get_contents("domains.txt") or die("Cannot read file");
+    $list = preg_replace("/\b($whitelist)\b/i", "", $list);
+
+    // Remove empty lines in domains.txt
+    $list = preg_replace("/(^[\r\n]*|[\r\n]+)[\s\t]*[\r\n]+/", "\n", $list);
+
+    file_put_contents("domains.txt", $list);
+
+    decode('domains.txt');
+    decode('whitelist.txt');
 
 // Convert domains.txt into domains.json
 
-header('Content-type: application/json');
-$fp    = 'domains.txt';
-// get the contents of file in array
-$conents_arr   = file($fp,FILE_IGNORE_NEW_LINES);
-foreach($conents_arr as $key=>$value)
-{
-    $conents_arr[$key]  = rtrim($value, "\r");
-}
-var_dump($conents_arr);
-$json_contents = json_encode($conents_arr);
-// echo $json_contents;
-file_put_contents('domains.json', $json_contents);
+    header('Content-type: application/json');
+
+    // get the contents of file in array
+    $conents_arr   = file('domains.txt',FILE_IGNORE_NEW_LINES);
+    foreach($conents_arr as $key=>$value)
+    {
+        $conents_arr[$key]  = rtrim($value, "\r");
+    }
+    var_dump($conents_arr);
+    $json_contents = json_encode($conents_arr);
+
+    // echo $json_contents;
+    file_put_contents('domains.json', $json_contents);
 
 ?>

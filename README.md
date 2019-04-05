@@ -29,7 +29,7 @@ The raw data was periodically collected from these repositories:
 - [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
 - [michenriksen/disposable-email-provider-domains](https://gist.github.com/michenriksen/8710649)
 - [martenson/disposable-email-domains](https://github.com/martenson/disposable-email-domains)
-- [GeroldSetz/emailondeck.com-domains](https://github.com/eroldSetz/emailondeck.com-domains)
+- [GeroldSetz/emailondeck.com-domains](https://github.com/GeroldSetz/emailondeck.com-domains)
 
 # Usage
 
