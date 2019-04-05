@@ -85,7 +85,6 @@
 20minutemail.com
 20minutemail.it
 2120001.net
-21cn.com
 22office.com
 24hinbox.com
 24mail.top
@@ -2759,7 +2758,6 @@ qoika.com
 qopmail.com
 qorikan.com
 qpalong.com
-qq.com
 qs2k.com
 qsl.ro
 qtum-ico.com
@@ -3867,7 +3865,6 @@ yaraon.tk
 ycare.de
 ycn.ro
 ye.vc
-yeah.net
 yedi.org
 yelloww.tk
 yenimail.site
