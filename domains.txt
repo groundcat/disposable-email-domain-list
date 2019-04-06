@@ -31,6 +31,7 @@
 10mail.com
 10mail.org
 10minut.com.pl
+10minut.xyz
 10minutemail.co.uk
 10minutemail.co.za
 10minutemail.com
@@ -385,6 +386,7 @@ auxifyboosting.ga
 aver.com
 averdov.com
 aviani.com
+avio.gq
 avioaero.tk
 avls.pt
 avr.ze.cx
@@ -1382,7 +1384,6 @@ hafzo.net
 hagiasophiagroup.com
 hagiasophiaonline.com
 haida-edu.cn
-hamusoku.tk
 hangxomcuatoilatotoro.tk
 haniv.ignorelist.com
 hanmama.zz.am
