@@ -41,6 +41,7 @@
 10minutenemail.de
 10minutesmail.com
 10minutesmail.fr
+10minutetempemail.com
 10vpn.info
 11-32.tk
 117.yyolf.net
@@ -795,7 +796,6 @@ cream.pink
 creazionisa.com
 creo.cloudns.cc
 creo.nctu.me
-crossroadsmail.com
 crusthost.com
 crydeck.com
 crymail2.com
@@ -1328,7 +1328,6 @@ fs16dubzzn0.tk
 fsmilitary.com
 fsociety.org
 ftp.sh
-ftpbd.com
 ftpinc.ca
 fuckedupload.com
 fuckme69.club
@@ -1418,7 +1417,10 @@ geteit.com
 getinsuranceforyou.com
 getjulia.com
 getmails.eu
+getnada.cf
 getnada.com
+getnada.gq
+getnada.ml
 getocity.com
 getonemail.net
 getstructuredsettlement.com
@@ -1809,6 +1811,7 @@ jafps.com
 jagongan.ml
 jaguar-landrover.tk
 jaguar-xj.tk
+jama.trenet.eu
 jamieziggers.nl
 jamit.com.au
 jancok.in
@@ -2177,7 +2180,6 @@ mail.jpgames.net
 mail.libivan.com
 mail.myserv.info
 mail.neynt.ca
-mail.omahsimbah.com
 mail.rthyde.com
 mail.stars19.xyz
 mail.unionpay.pl
@@ -2239,6 +2241,7 @@ mailforspam.com
 mailfree.ml
 mailfs.com
 mailgc.com
+mailgen.biz
 mailgov.info
 mailgutter.com
 mailhazard.com
@@ -2692,7 +2695,6 @@ nnh.com
 nnoway.ru
 no-vax.tk
 no.tap.tru.io
-nofocodobrasil.tk
 nogmailspam.info
 noifeelings.com
 nokiahere.tk
@@ -2736,6 +2738,7 @@ nurdea.com
 nurdintv.com
 nurfuerspam.de
 nus.edu.sg
+nut.cc
 nutpa.net
 nvc-e.com
 nwldx.com
@@ -3488,6 +3491,7 @@ spamobox.com
 spamserver.tk
 spamserver2.tk
 spamslicer.com
+spamspot.com
 spamthis.co.uk
 spamtrap.co
 spamtrap.ro
@@ -3995,6 +3999,7 @@ uyhip.com
 uyu.kr
 uzxia.com
 uzxia.tk
+v-mail.xyz
 v7ecub.com
 vaasfc4.tk
 vadlag.xyz
@@ -4086,7 +4091,6 @@ vradportal.com
 vrloco.com
 vrmtr.com
 vrpitch.com
-vs904a6.com
 vsimcard.com
 vssms.com
 vstartup4q.com
