@@ -1100,6 +1100,7 @@ email3.tk
 emailanto.com
 emailappp.com
 emailapps.info
+emailbaruku.com
 emaildrop.io
 emaileen.com
 emailfake.com
@@ -1241,6 +1242,7 @@ fartwallet.com
 fast-mail.fr
 fast-mail.one
 fastemails.us
+fasty.xyz
 fatflap.com
 fawwaz.cf
 fawwaz.ga
@@ -3933,6 +3935,7 @@ trashmail.app
 trashmail.at
 trashmail.com
 trashmail.de
+trashmail.ga
 trashmail.io
 trashmail.me
 trashmail.net
