@@ -341,7 +341,6 @@ anonymbox.com
 anonymized.org
 anonymstermail.com
 anotherdomaincyka.tk
-anthony-junkmail.com
 antichef.com
 antichef.net
 antichef.org
@@ -1761,7 +1760,6 @@ indeedlebeans.com
 indeedtime.us
 indirect.ws
 indogame.site
-indoliqueur.com
 indomaed.pw
 indoserver.stream
 infest.org
@@ -1838,6 +1836,7 @@ jadopado.com
 jafps.com
 jaguar-landrover.tk
 jaguar-xj.tk
+jama.trenet.eu
 jamieziggers.nl
 jamit.com.au
 jancok.in
@@ -2150,6 +2149,7 @@ ltuc.edu.eu.org
 luckjob.pw
 luckymail.org
 lucyu.com
+lukecarriere.com
 lukop.dk
 lulumelulu.org
 luo.kr
@@ -2164,7 +2164,6 @@ m.svlp.net
 m0.guardmail.cf
 m1.guardmail.cf
 m2.guardmail.cf
-m2project.xyz
 m8r.davidfuhr.de
 m8r.mcasal.com
 ma-boite-aux-lettres.infos.st
@@ -2184,7 +2183,6 @@ mail-fake.com
 mail-filter.com
 mail-j.tk
 mail-list.top
-mail-pro.info
 mail-register.com
 mail-share.com
 mail-temp.com
@@ -2439,6 +2437,7 @@ midlertidig.net
 midlertidig.org
 migmail.net
 migmail.pl
+mihep.com
 mijnhva.nl
 milk.gage.ga
 mimpaharpur.cf
@@ -3885,6 +3884,7 @@ todayemail.ga
 toddsbighug.com
 tohurt.me
 toi.kr
+tokenmail.de
 tol.ooo
 tolongsaya.me
 tonymanso.com
@@ -4053,7 +4053,6 @@ uvy.kr
 uwork4.us
 uyhip.com
 uyu.kr
-uzxia.com
 uzxia.tk
 v-mail.xyz
 v7ecub.com
@@ -4102,12 +4101,10 @@ viewcastmedia.org
 vilnapresa.com
 vincenza1818.site
 vinernet.com
-vip.aiot.eu.org
 vip.cool
 vip.dmtc.press
 vip.hstu.eu.org
 vipepe.com
-viphone.eu.org
 vipmail.pw
 viral-science.fun
 viralplays.com
@@ -4414,7 +4411,6 @@ yt-creator.com
 yt-google.com
 yui.it
 yuirz.com
-yuoia.com
 yuurok.com
 yuxuan.mobi
 yxzx.net
