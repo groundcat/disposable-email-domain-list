@@ -44,6 +44,7 @@
 10minutesmail.com
 10minutesmail.fr
 10minutetempemail.com
+10minutmail.pl
 10vpn.info
 11-32.tk
 117.yyolf.net
@@ -85,6 +86,7 @@
 2014mail.ru
 20boxme.org
 20email.eu
+20mail.eu
 20mail.in
 20mail.it
 20minutemail.com
@@ -472,6 +474,7 @@ bae-systems.tk
 balanc3r.com
 ballsofsteel.net
 bangsat.in
+bannedpls.online
 baomoi.site
 barbarrianking.com
 barcalovers.club
@@ -766,8 +769,6 @@ cmc88.tk
 cnamed.com
 cndps.com
 cnew.ir
-cnh.industrial.ga
-cnh.industrial.gq
 cnmsg.net
 cnshosti.in
 cobin2hood.com
@@ -776,7 +777,6 @@ code-mail.com
 codyting.com
 coffeepancakewafflebacon.com
 coieo.com
-cok.3utilities.com
 comeonfind.me
 comeporon.ga
 comm.craigslist.org
@@ -1053,7 +1053,6 @@ e-mail.com
 e-mail.org
 e-mule.tk
 e-tomarigi.com
-e.benlotus.com
 e3b.org
 e3z.de
 e4ivstampk.com
@@ -2397,6 +2396,7 @@ maswae.world
 matchpol.net
 matra.site
 matra.top
+mattersjf8.com
 max-direct.com
 max-mail.info
 maximalbonus.de
@@ -2426,6 +2426,7 @@ mendoan.uu.gl
 mendoanmail.club
 mepost.pw
 merantikk.tk
+merda.ml
 merry.pink
 messagebeamer.de
 metroset.net
@@ -2839,7 +2840,6 @@ one2mail.info
 onecitymail.com
 onelegalplan.com
 onemail.host
-onenime.ga
 oneoffemail.com
 oneoffmail.com
 onewaymail.com
@@ -3457,7 +3457,6 @@ slippery.email
 slipry.net
 slmshf.cf
 slothmail.net
-sltmail.com
 slushmail.com
 slutty.horse
 smallanawanginbeach.com
@@ -3576,6 +3575,7 @@ sperma.gq
 spindl-e.com
 spmy.netpage.dk
 spoofmail.de
+sporexbet.com
 spr.io
 spreaddashboard.com
 sprin.tf
@@ -4097,7 +4097,6 @@ vctel.com
 vda.ro
 vdmmhozx5kxeh.tk
 veanlo.com
-vedmail.com
 vedula.com
 veebee.tk
 vektik.com
