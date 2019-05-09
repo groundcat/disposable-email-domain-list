@@ -694,7 +694,6 @@ cdpa.cc
 ceed.se
 cek.pm
 cekajahhs.tk
-cellurl.com
 cetpass.com
 chacuo.net
 chaichuang.com
@@ -805,7 +804,6 @@ cowcell.com
 coza.ro
 cpaoz.com
 cpmail.life
-cr3wxmail.servequake.com
 crankmails.com
 crap.kakadua.net
 crapmail.org
@@ -1497,7 +1495,6 @@ gmial.com
 gmx.fr.nf
 gmx1mail.top
 gmxmail.top
-go1.site
 go2vpn.net
 godmail.gq
 goemailgo.com
@@ -1942,7 +1939,6 @@ junk.beats.org
 junk.ihmehl.com
 junk.to
 junk1e.com
-junkmail.ga
 juyouxi.com
 jv6hgh1.com
 jwork.ru
@@ -2440,7 +2436,6 @@ merry.pink
 messagebeamer.de
 metroset.net
 mezimages.net
-mfsa.info
 mfsa.ru
 mg-rover.tk
 mhdpower.me
@@ -2490,6 +2485,7 @@ mitsubishi-asx.tk
 mitsubishi-pajero.tk
 miur.tk
 mixchains.win
+mixi.gq
 mji.ro
 mko.kr
 ml8.ca
@@ -2616,7 +2612,6 @@ myemail1.ga
 myemail1.ml
 myemailboxy.com
 myemaill.com
-myfake.cf
 myfake.tk
 myfakemail.tk
 myfavorite.info
@@ -3229,7 +3224,6 @@ res.craigslist.org
 resellermurah.me
 resepku.site
 resgedvgfed.tk
-rev-zone.net
 revolvingdoorhoax.org
 rewas-app-lex.com
 rex-app-lexc.com
@@ -4338,7 +4332,6 @@ x13x13x13.com
 x24.com
 x8h8x941l.com
 xagloo.com
-xaynetsss.ddns.net
 xc05fypuj.com
 xc40.tk
 xc60.tk
@@ -4543,6 +4536,7 @@ zrmail.ga
 zsero.com
 zslsz.com
 zualikhakk.tk
+zubacteriax.com
 zurtel.cf
 zurtel.ga
 zurtel.gq
