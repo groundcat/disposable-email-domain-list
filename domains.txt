@@ -43,7 +43,6 @@
 10minutesmail.com
 10minutesmail.fr
 10minutetempemail.com
-10minutmail.pl
 10vpn.info
 11-32.tk
 117.yyolf.net
@@ -627,7 +626,6 @@ btcmail.pw
 btizet.pl
 buatwini.tk
 bucbdlbniz.tk
-buchhandlung24.com
 budaya-tionghoa.com
 budayationghoa.com
 bugmenever.com
@@ -1866,6 +1864,7 @@ jadopado.com
 jafps.com
 jaguar-landrover.tk
 jaguar-xj.tk
+jama.trenet.eu
 jamieziggers.nl
 jamit.com.au
 jancok.in
@@ -2089,7 +2088,6 @@ lawrence1121.club
 lazyinbox.com
 lazymail.ooo
 lbe.kr
-lbjmail.com
 ldtp.com
 le.monchu.fr
 leadingemail.com
@@ -2803,6 +2801,7 @@ nurdea.com
 nurdintv.com
 nurfuerspam.de
 nus.edu.sg
+nut.cc
 nutpa.net
 nvc-e.com
 nwldx.com
@@ -2874,6 +2873,7 @@ opendns.ro
 openmailbox.tk
 opmmail.com
 opna.me
+opp24.com
 oranek.com
 ordinaryamerican.net
 ordinaryyz1.com
@@ -4138,12 +4138,10 @@ viewcastmedia.org
 vilnapresa.com
 vincenza1818.site
 vinernet.com
-vip.aiot.eu.org
 vip.cool
 vip.dmtc.press
 vip.hstu.eu.org
 vipepe.com
-viphone.eu.org
 vipmail.pw
 viral-science.fun
 viralplays.com
@@ -4212,7 +4210,6 @@ walkmail.ru
 wanko.be
 wapl.ga
 warau-kadoni.com
-warungku.me
 wasd.dropmail.me
 waskitacorp.cf
 waskitacorp.ga
@@ -4378,7 +4375,6 @@ xwaretech.info
 xwaretech.net
 xww.ro
 xxlocanto.us
-xxme.me
 xxolocanto.us
 xxqx3802.com
 xzavier1121.club
