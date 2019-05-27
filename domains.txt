@@ -1164,6 +1164,7 @@ emailkoe.com
 emaillime.com
 emailmenow.info
 emailna.co
+emailna.life
 emailo.pro
 emailresort.com
 emailsecurer.com
@@ -1238,6 +1239,7 @@ euaqa.com
 eur-sec1.tk
 euromail.tk
 evcmail.com
+evilcomputer.com
 evyush.com
 ewa.kr
 eww.ro
@@ -1290,7 +1292,6 @@ farfurmail.tk
 fartwallet.com
 fast-mail.fr
 fast-mail.one
-fastacura.com
 fastemails.us
 fastmoney.pro
 fasty.xyz
@@ -2351,6 +2352,7 @@ mailbox72.biz
 mailbox87.de
 mailbox92.biz
 mailboxy.fun
+mailbucket.org
 mailcat.biz
 mailcatch.com
 mailcatch.xyz
@@ -2765,6 +2767,7 @@ mywikitree.com
 mywrld.site
 mywrld.top
 myzat.com
+myzx.com
 mziqo.com
 n0te.tk
 n1nja.org
@@ -3202,7 +3205,6 @@ pulpmail.us
 puncakyuk.com
 punggur.tk
 pungkiparamitasari.com
-punkass.com
 purplemail.tk
 put2.net
 puttana.tk
@@ -3326,7 +3328,6 @@ remarkable.rocks
 remote.li
 renault-sa.tk
 renaulttrucks.tk
-rendymail.com
 reptilegenetics.com
 res.craigslist.org
 resellermurah.me
@@ -3674,7 +3675,6 @@ spamfree24.de
 spamfree24.eu
 spamfree24.info
 spamfree24.net
-spamfree24.org
 spamgourmet.com
 spamgourmet.net
 spamgourmet.org
@@ -4291,6 +4291,7 @@ viwsala.com
 vjr.luk2.com
 vkcode.ru
 vlipbttm9p37te.tk
+vmail.tech
 vmani.com
 vmentorgk.com
 vmpanda.com
@@ -4335,7 +4336,6 @@ w3internet.co.uk
 w3mailbox.com
 w4i3em6r.com
 w4ms.ga
-w4ms.ml
 w9y9640c.com
 wa010.com
 wagfused.com
