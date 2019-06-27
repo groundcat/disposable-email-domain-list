@@ -780,7 +780,6 @@ bae-systems.tk
 bag-shopper.ru
 bagmommy.ru
 bagrgallery.ru
-baikal-autotravel.ru
 bakar.bid
 bakhaus.ru
 balanc3r.com
@@ -788,6 +787,7 @@ ballsofsteel.net
 bandamn.ru
 bangsat.in
 banikata.ru
+banit.club
 bank-opros1.ru
 bankomatt.ru
 bankovskaya-karta-tele2.ru
@@ -1511,7 +1511,10 @@ designvk.ru
 desoz.com
 despammed.com
 detskiechasy72.ru
+dettol.cf
 dettol.gq
+dettol.ml
+dettol.tk
 deucemail.com
 dev-api.ru
 devnullmail.com
@@ -1657,7 +1660,6 @@ donemail.ru
 dontsendmespam.de
 dooboop.com
 doroobo-bet.ru
-dostavka-24-7.ru
 dostavkapoz.ru
 dostupnaya-ipoteka.ru
 dota2bets.net
@@ -2472,7 +2474,6 @@ grr.la
 grud-devushki.ru
 gruz-m.ru
 gruz-man.ru
-gs516.ru
 gsrv.co.uk
 gta-offline.ru
 gud-game.ru
@@ -2908,6 +2909,7 @@ iphoneaccount.com
 iphonees.info
 iphonex-shop.ru
 ipiranga.dynu.com
+ipizza24.ru
 ipmaximus.ru
 ippandansei.tk
 ipriva.com
@@ -3614,6 +3616,7 @@ mailinatar.com
 mailinater.com
 mailinator.co.uk
 mailinator.com
+mailinator.gq
 mailinator.net
 mailinator.org
 mailinator.us
@@ -3965,7 +3968,6 @@ monettka.ru
 moneylac.ru
 moniclick.ru
 monmail.fr.nf
-monoktr.ru
 monopoliya2.ru
 monsterblender.ru
 monumentmail.com
@@ -4094,6 +4096,7 @@ mycleaninbox.net
 mycorneroftheinter.net
 mydemo.equipment
 myemail.gic.edu.vn
+myemail1.ml
 myemailboxy.com
 myemaill.com
 myfake.tk
@@ -4775,6 +4778,7 @@ postfach2go.de
 posthectomie.info
 postonline.me
 posvabotma.x24hr.com
+potencialexone.ru
 potencialexstore.ru
 potencid.ru
 potencis.ru
@@ -4840,7 +4844,6 @@ prohost24.ru
 projectcl.com
 prol.icu
 promails.xyz
-promplast-okna.ru
 propscore.com
 protection-0ffice365.com
 protein-krasnodar.ru
@@ -4955,7 +4958,6 @@ r31s4fo.com
 r4.dns-cloud.net
 r4nd0m.de
 r8r4p0cb.com
-r9-nalarum.ru
 r9ycfn3nou.tk
 ra-st.ru
 ra3.us
@@ -6106,7 +6108,6 @@ totalvista.com
 totobet.club
 tourbalitravel.com
 tourtripbali.com
-tovar-off.ru
 tovar-tyt.ru
 tovar-zdes.ru
 tovarshopmoscow.ru
@@ -6367,7 +6368,6 @@ vaultsophia.com
 vaultsophiaonline.com
 vay.kr
 vba.kr
-vbalakovo.ru
 vctel.com
 vda.ro
 vdmmhozx5kxeh.tk
@@ -6486,7 +6486,6 @@ vomoto.com
 vonbe.tk
 vorga.org
 vospitanievovrema.ru
-vozmi-instrument.ru
 vpn.st
 vpn33.top
 vpomosmame.ru
@@ -7011,6 +7010,7 @@ zurtel.gq
 zurtel.ml
 zurtel.tk
 zvookkolonka.ru
+zw6provider.com
 zwoho.com
 zx81.ovh
 zxcvbnm.com
