@@ -46,7 +46,6 @@
 10minutenemail.de
 10minutesmail.com
 10minutesmail.fr
-10minutmail.pl
 10vpn.info
 11-32.tk
 114207.com
@@ -105,7 +104,6 @@
 20boxme.org
 20email.eu
 20mail.eu
-20mail.in
 20mail.it
 20minutemail.com
 20minutemail.it
@@ -1471,6 +1469,7 @@ ddns.net
 de-a.org
 de.introverted.ninja
 de.vipqq.eu.org
+dea-love.net
 dea.soon.it
 deadchildren.org
 deagot.com
@@ -2229,6 +2228,7 @@ fz-gamvar1.ru
 g-2018.ru
 g-chance.ru
 g-mailix.com
+g-neurosystem.ru
 g00glechr0me.tk
 g14l71lb.com
 g1xmail.top
@@ -2283,7 +2283,6 @@ gcmail.top
 gcsoftware.ru
 gde-vzyat-ipoteku.ru
 gdmail.top
-geararticles.com
 geartower.com
 geaviation.tk
 gedmail.win
@@ -2334,7 +2333,6 @@ gfmail.gq
 gfmail.tk
 gg-byron.tk
 gg-maramont.ru
-ggg.pp.ua
 ggmail.guru
 ggmob-us.fun
 ghtreihfgh.xyz
@@ -2758,7 +2756,6 @@ ieatspam.eu
 ieatspam.info
 iefbcieuf.tk
 ieh-mail.de
-iencm.com
 if-store.ru
 if58.tk
 ifans-electronics.ru
@@ -2935,7 +2932,6 @@ iren24.ru
 irina-kusik.ru
 irish2me.com
 irknim.ru
-irobotlab.ru
 iroid.com
 iroirorussia.ru
 ironiebehindert.de
@@ -3023,7 +3019,6 @@ jesus-shop.ru
 jetable.fr.nf
 jetable.net
 jetable.org
-jetable.pp.ua
 jfiee.tk
 jgfhh10-0-0-1.defaultdomain.ml
 jh24promo.ru
@@ -3133,7 +3128,6 @@ katztube.com
 kaufshop.ru
 kavisto.ru
 kaxks55ofhkzt5245n.tk
-kaye.ooo
 kazan-elki.ru
 kazper.net
 kcrw.de
@@ -4645,7 +4639,6 @@ pcmylife.com
 pcusers.otherinbox.com
 pdmlink.ze.cx
 pdold.com
-pecinan.com
 pecinan.net
 pecinan.org
 pecmail.tk
@@ -4819,7 +4812,6 @@ premiumail.ml
 preparee.top
 press-citrus.ru
 presslemon.ru
-pricenow.co
 priceonline.co
 prihshop.ru
 primabananen.net
@@ -5009,7 +5001,6 @@ rav-apsl.ru
 rav4.tk
 ravenom.ru
 ravyn.xyz
-razinrocks.me
 rbb.org
 rblx.site
 rcpt.at
@@ -5698,7 +5689,6 @@ stofaline.ru
 stolovaya-hutorok.ru
 stomach4m.com
 stop-my-spam.com
-stop-my-spam.pp.ua
 store-perfume.ru
 storebestsale.ru
 storeclsrn.xyz
@@ -5907,7 +5897,6 @@ tempemails.io
 tempinbox.co.uk
 tempinbox.com
 tempm.cf
-tempm.com
 tempmail.co
 tempmail.de
 tempmail.io
@@ -6184,7 +6173,6 @@ trend-on.ru
 trend-tovar.ru
 trendingtopic.cl
 trendshop95.ru
-trendtattoo.ru
 trendunas.ru
 trenord.tk
 trgovinanaveliko.info
@@ -6445,11 +6433,13 @@ vinernet.com
 vinsmoke.tech
 vip-clicker.ru
 vip-lovemagic.ru
+vip.aiot.eu.org
 vip.boxmaill.com
 vip.cool
 vip.dmtc.press
 vip.hstu.eu.org
 vipepe.com
+viphone.eu.org
 viphop.ru
 viplinz.ru
 viplovemagic.ru
@@ -6883,8 +6873,6 @@ yopmail.fr
 yopmail.fr.nf
 yopmail.info
 yopmail.net
-yopmail.pp.ua
-yopmail.xxi2.com
 yoshoper.ru
 youbestone.pw
 youchat.ooo
