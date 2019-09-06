@@ -272,7 +272,6 @@
 4warding.net
 4warding.org
 5-mail.info
-500-0-501.ru
 500-rub.ru
 50abc.ru
 50it.ru
@@ -452,9 +451,6 @@ achievementwe.us
 achievewe.us
 acornwe.us
 acq.cz
-acquaintance70.cf
-acquaintance70.ga
-acquaintance70.gq
 acrylicwe.us
 activatewe.us
 activitywe.us
@@ -1008,7 +1004,6 @@ bergmoneyclub.ru
 beri-delay.ru
 beribase.ru
 beribaza.ru
-beridelo.ru
 berigroup.ru
 bershka-terim.space
 best-day.pw
@@ -1099,7 +1094,6 @@ bizimalem-support.de
 bizsearch.info
 biztime.tk
 bjmd.cf
-bjxt.ml
 bki7rt6yufyiguio.ze.am
 bko.kr
 bl.ctu.edu.gr
@@ -1207,7 +1201,6 @@ brunto.ru
 bruson.ru
 brussellottery.org
 brutaldate.com
-brxqoy.cf
 bryanlgx.com
 bsnow.net
 bspamfree.org
@@ -1354,7 +1347,6 @@ ceo-online.ru
 ceramica-mk.ru
 cetpass.com
 cfspart-impots-gouv.site
-cgbjxt.tk
 chacuo.net
 chagacup.ru
 chaichuang.com
@@ -1371,7 +1363,6 @@ chaosi0t.com
 chargedmuscles.com
 charlotteixp.com
 charmhive.com
-chassi-nc.cf
 chatbotbucket.com
 chauhanz.tk
 cheap4u.ru
@@ -1755,7 +1746,6 @@ defomail.com
 degradedfun.net
 deinbox.com
 dekartaboards.ru
-delaysvoe.ru
 delonguiseavolt.ca
 demandfull.date
 demandsxz.com
@@ -1767,7 +1757,6 @@ dengekibunko.gq
 dengekibunko.ml
 dengivbank.ru
 dengizaotvet.ru
-denispushkin.ru
 dennisss.top
 dennmail.win
 density2v.com
@@ -1791,7 +1780,6 @@ despammed.com
 detalushka.ru
 deteenergy.com
 detkisad.ru
-detskiechasy72.ru
 dettol.cf
 dettol.gq
 dettol.ml
@@ -1839,7 +1827,6 @@ dinkmail.com
 diogenov.ru
 dioscolwedddas.3-a.net
 diplomvirkutske.ru
-dipoelast.ru
 diral.ru
 direct-mail.info
 direct-mail.top
@@ -2314,7 +2301,6 @@ everyshop.us
 everytg.ml
 evgmodern.ru
 evhybrid.club
-evilcomputer.com
 evilin-expo.ru
 evonb.com
 evpatiy.ru
@@ -2390,7 +2376,6 @@ familiashop.ru
 familiekersten.tk
 family-class.ru
 familyfive.ru
-fammix.com
 fangoh.com
 fanmonero.dns.navy
 fantaseri.ru
@@ -2566,7 +2551,6 @@ forhousandlife.ru
 formulath.ru
 forotenis.com
 forsgame.ru
-forspam.net
 fortniteskill.com
 forum-edu.ru
 forum-feringer.ru
@@ -3366,6 +3350,7 @@ innovateccc.org
 inoutmail.de
 inretail.ru
 inrim.tk
+inshapeactive.ru
 inspace-media.ru
 insta-ground.ru
 instabackdrop.com
@@ -4170,6 +4155,7 @@ mailinator.net
 mailinator.org
 mailinator.us
 mailinator2.com
+mailinbox.co
 mailinbox.guru
 mailinbox.ml
 mailincubator.com
@@ -4441,6 +4427,9 @@ mirautoportal.ru
 miriarab.ru
 mirkvadro.ru
 mirmirchi.site
+mirror37.ru
+mirror49.ru
+mirror53.ru
 miseoutlet.site
 misssiliconvalley.org
 misterpinball.de
@@ -4644,6 +4633,7 @@ mygoldenmail.online
 mygrammarly.co
 mygreenstyle.ru
 myhagiasophia.com
+myhashpower.com
 myhiteswebsite.website
 myhosteldom.ru
 myletter.online
@@ -4791,7 +4781,6 @@ neverenuff.com
 nevermail.de
 newairmail.com
 newbeatslive.club
-newbeekeepers.us
 newbpotato.tk
 neweranews16.com
 neweranews3.com
@@ -4911,7 +4900,6 @@ nurdea.com
 nurdintv.com
 nurfuerspam.de
 nus.edu.sg
-nut.cc
 nutpa.net
 nvc-e.com
 nvce.net
@@ -5297,7 +5285,6 @@ postheo.de
 postonline.me
 postshift.ru
 posvabotma.x24hr.com
-potencialexone.ru
 potencid.ru
 potencis.ru
 potencyalex.ru
@@ -5550,7 +5537,6 @@ redpeanut.com
 redpen.trade
 redrivervalleyacademy.com
 reduslimf.ru
-reduslimius.ru
 redusslimium.ru
 referalu.ru
 reftoken.net
@@ -5591,7 +5577,6 @@ residencias-rehabilitacion.com
 restorationcoffee.us
 returnhealth.ru
 rev-zone.xyz
-reviewsforproduct.info
 revolvingdoorhoax.org
 rewas-app-lex.com
 rex-app-lexc.com
@@ -6559,7 +6544,6 @@ toi.kr
 tokenized-shares.org
 tokenmail.de
 tokot.ru
-tolongsaya.me
 tomali.cn
 tonne.to
 tonymanso.com
@@ -6866,6 +6850,7 @@ via.tokyo.jp
 vickaentb.tk
 video-dlj-tebya.ru
 videohd-clip.ru
+videoprosmotr.ru
 videotubegames.ru
 vidiboutique.site
 viditag.com
@@ -7332,6 +7317,7 @@ zamge.com
 zane.rocks
 zanichelli.tk
 zarabotaibystro.ru
+zarabotati-sei4as.ru
 zarweek.tk
 zasod.com
 zdecadesgl.com
