@@ -85,7 +85,6 @@
 10minutenemail.de
 10minutesmail.com
 10minutesmail.fr
-10minutmail.pl
 10tasty.com
 10vpn.info
 11-32.tk
@@ -460,6 +459,7 @@ adpurl.com
 adrianraharja.uk.to
 adrmwn.me
 adroit.asia
+adsd.org
 adultvidlite.com
 advantagewe.us
 advantimal.com
@@ -826,7 +826,6 @@ avioaero.tk
 avls.pt
 avosbka.ru
 avr.ze.cx
-avto-fakt.ru
 avto-parts24.ru
 avtobym.ru
 avtomatika-stout.ru
@@ -2254,8 +2253,6 @@ etr500.gq
 etr610.cf
 etr610.ga
 etr610.gq
-etr610.ml
-etr610.tk
 ets2android.mobi
 etzdnetx.com
 euaqa.com
@@ -2355,6 +2352,7 @@ fantasymail.de
 fantasyri.ru
 fapestore.site
 farfurmail.tk
+farmtoday.us
 farr40.ru
 farteam.ru
 fask1300.info
@@ -3020,7 +3018,6 @@ hicloud.life
 hidebox.org
 hidebusiness.xyz
 hidemail.de
-hideweb.xyz
 hidkey.ru
 hidzz.com
 highground.store
@@ -3282,6 +3279,7 @@ indeedtime.us
 indir.red
 indirect.ws
 indogame.site
+indomovie21.me
 indoplay303.com
 indoserver.stream
 inertiafm.ru
@@ -3712,6 +3710,7 @@ koogis-cream.ru
 kopagas.com
 korabora.ong
 korona-nedvizhimosti.ru
+kosmetika-korei.ru
 kosmoworld.ru
 koszmail.pl
 kotsu01.info
@@ -3724,6 +3723,7 @@ krasfasad24.ru
 kraskaekb.ru
 krasnikovalexandr.ru
 kreativsad.ru
+kriptokartel.ru
 krompakan.xyz
 ks87.igg.biz
 ktbk.ru
@@ -4233,7 +4233,6 @@ marstur.com
 marumaru2.com
 maryscake.ru
 mas-omkia.ru
-masafiagrofood.com
 masaindah.online
 masasih.loan
 masikmama.ru
@@ -4282,6 +4281,7 @@ mecbuc.tk
 med-expertlife.ru
 med.gd
 medbat.ru
+medfornorm.ru
 mediatrack.ga
 mediciine.site
 meditsinskiekliniki.ru
@@ -4444,7 +4444,6 @@ mon-espace.club
 monachat.tk
 moncomptes.club
 moncourrier.fr.nf
-moncourrier.ml
 monemail.fr.nf
 monespace.cc
 monespace.info
@@ -4723,6 +4722,7 @@ networkofemail.com
 networksfs.com
 netzidiot.de
 neuro7-shop.ru
+neuro7system.ru
 neurosystem-cool.ru
 neurosystem7-coolshop.ru
 neurosystem7-org.ru
@@ -4767,7 +4767,6 @@ nic.aupet.it
 nice-4u.com
 nicegarden.us
 nickrizos.com
-nicoobook.net
 nideshops.site
 niepodam.pl
 niiduno-official.ru
@@ -4827,6 +4826,7 @@ nothingtoseehere.ca
 notification.promo
 notmail.com
 notmailinator.com
+notrema.ru
 notrnailinator.com
 notsharingmy.info
 nova-entre.ga
@@ -4852,7 +4852,6 @@ nurdea.com
 nurdintv.com
 nurfuerspam.de
 nus.edu.sg
-nut.cc
 nutpa.net
 nvc-e.com
 nvce.net
@@ -4971,7 +4970,6 @@ oonies-game.ru
 ooniesoriginal.ru
 ooo813.com
 oopi.org
-oou.us
 opayq.com
 opaywallet.info
 opaywallet.org
@@ -5033,7 +5031,6 @@ ozlaq.com
 ozozwd2p.com
 ozsanlojistik.xyz
 ozumz.com
-ozyl.de
 ozzstream.com
 p-fishing.ru
 p-gdl.tk
@@ -5230,6 +5227,7 @@ postheo.de
 postonline.me
 postshift.ru
 posvabotma.x24hr.com
+potencialexstore.ru
 potencid.ru
 potencis.ru
 potencyalex.ru
@@ -5684,6 +5682,7 @@ savoytv17.com
 sawas.ru
 saxophonexltd.com
 sazaury.com
+sburningk.com
 sbuttone.com
 scams.website
 scay.net
@@ -6265,6 +6264,7 @@ tedxibadan.com
 tedxsziu.ru
 teethsowhitepro.com
 tehkom-sz.ru
+tehno-d.ru
 tehoopcut.info
 tehosmotr86.ru
 telechargermusique.live
@@ -6620,6 +6620,7 @@ turoid.com
 tutela-adultos.info
 tutye.com
 tuyulmokad.ml
+tuyulmokad.tk
 tvchd.com
 tvmarin.net
 tvoyryukzak.ru
@@ -6627,6 +6628,7 @@ tvoyshoping.ru
 tweakacapun.wwwhost.biz
 twinmail.de
 twitterfact.com
+twmail.tk
 two0aks.com
 twocowmail.net
 txtadvertise.com
@@ -6745,6 +6747,7 @@ vanturtransfer.com
 vanxardmedia.com
 vapetaxi.ru
 varna.vip
+vash--mishka.ru
 vaultsophia.com
 vaultsophiaonline.com
 vay.kr
@@ -6774,6 +6777,7 @@ verifymail.win
 veriifmail.com
 verizondw.com
 vermutlich.net
+vernivychet.ru
 veryday.ch
 veryday.eu
 veryday.info
@@ -6794,6 +6798,7 @@ vidoc.ru
 vieebee.tk
 vikikredit.ru
 vikingsonly.com
+viktorkedrovskiy.ru
 vimail24.com
 vinernet.com
 vinsmoke.tech
@@ -6821,14 +6826,18 @@ virtualserver.pro
 virushelp.site
 visal007.tk
 visal168.tk
+visantia.ru
 visitingob.com
 vitalizehairgummy.com
 vitalizehairmen.com
 vitalizeskinforwomen.com
 viwsala.com
 vkcode.ru
+vkusnosam.ru
+vkusup.ru
 vl-pla.ru
 vlipbttm9p37te.tk
+vlivki.ru
 vlvstech.com
 vmail.tech
 vmailcloud.com
@@ -6853,6 +6862,7 @@ vomega.org
 vomoto.com
 vonbe.tk
 vorga.org
+vospitanievovrema.ru
 vpfbattle.com
 vpmaj.us
 vpn.st
@@ -6887,6 +6897,7 @@ vvx046q.com
 vw-ag.tk
 vw-cc.tk
 vw-eos.tk
+w-amst.ru
 w22fe21.com
 w3internet.co.uk
 w3mailbox.com
@@ -6913,6 +6924,7 @@ waskitacorp.tk
 wasteland.rfc822.org
 watashiyuo.tk
 watchever.biz
+watchofficial.ru
 watsonvillerentals.com
 wazabi.club
 wbdev.tech
@@ -7005,6 +7017,7 @@ wimsg.com
 winmail.world
 wirull.site
 wisbuy.shop
+witchermedallion.ru
 wittenbergpartnership.com
 wix.creou.dev
 wix.ptcu.dev
@@ -7019,6 +7032,8 @@ wmrmail.com
 wolfmail.ml
 wolfsmail.tk
 wollan.info
+womenbox.ru
+woodmachinery-group.ru
 workmail.life
 worksmail.cf
 worksmail.ga
@@ -7032,6 +7047,7 @@ worldinvent.com
 worldof17hats.com
 worldofeasier.com
 wosostand.site
+wowhair.ru
 wp2romantic.com
 wpdfs.com
 wpg.im
@@ -7132,6 +7148,7 @@ yahooweb.co
 yalamail.com
 yamail.win
 yamuyade.site
+yandextaxilider.ru
 yandx.icu
 yannmail.win
 yapohudeu.ru
@@ -7175,6 +7192,7 @@ yllw.us
 ymail.site
 ymail4.com
 ymail44.com
+ymobil.ru
 yndrinks.com
 ynwkw.com
 yodx.ro
@@ -7199,6 +7217,7 @@ youbid.team
 yougotgoated.com
 youmails.online
 young-app-lexacc.com
+your-airy-lashes-spb.ru
 yourdomain.com
 yourfreeflix.me
 yourgrand-bonus-zone1.life
@@ -7226,6 +7245,7 @@ yxir.cn
 yxzx.net
 yyt.resolution4print.info
 z-mail.cf
+z-o-e-v-a.ru
 z-profit.ru
 z0d.eu
 z1p.biz
@@ -7234,21 +7254,25 @@ z870wfurpwxadxrk.tk
 z8zcx3gpit2kzo.tk
 za.com
 zadder.xyz
+zagorodnyi-domik.ru
 zahuy.site
 zain.site
 zainmax.net
+zakazat-okno.ru
 zaktouni.fr
 zakvason.ru
 zalvisual.us
 zamge.com
 zane.rocks
 zanichelli.tk
+zapravka19.ru
 zarabotaibystro.ru
 zarweek.tk
 zasod.com
 zdecadesgl.com
 zdenka.net
 zdfpost.net
+zdorovyeblogs.ru
 zdpuppyiy.com
 zebins.com
 zebins.eu
@@ -7267,6 +7291,7 @@ zerotohero-1.com
 zetmail.com
 zeusrisky07.ml
 zeusrisky07.tk
+zezis.ru
 zfvip76.com
 zfymail.com
 zh.ax
@@ -7289,6 +7314,7 @@ zleohkaqpt5.tk
 zlmsl0rkw0232hph.tk
 zmti6x70hdop.tk
 zn4chyguz9rz2gvjcq.tk
+znai-gde.ru
 znatb25xbul30ui.tk
 znnxguest.com
 zoemail.com
