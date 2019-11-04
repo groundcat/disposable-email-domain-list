@@ -102,7 +102,6 @@
 14n.co.uk
 15qm.com
 1676.ru
-174podarka.ru
 1766258.com
 18-9-2.tk
 188133756.ru
@@ -496,6 +495,7 @@ al-qaeda.us
 alaki.ga
 alalkamalalka.cf
 alalkamalalka.ga
+alalkamalalka.gq
 alalkamalalka.ml
 alalkamalalka.tk
 albionwe.us
@@ -838,6 +838,8 @@ bba24.de
 bbcs.me
 bbetweenj.com
 bbhost.us
+bbibbaibbobbatyt.cf
+bbibbaibbobbatyt.ga
 bbibbaibbobbatyt.gq
 bbibbaibbobbatyt.ml
 bbibbaibbobbatyt.tk
@@ -1268,14 +1270,12 @@ clue-1.com
 clutunpodli.ddns.info
 cluu.de
 cmail.club
-cmail.com
 cmail.net
 cmc88.tk
 cms-rt.com.com
 cnamed.com
 cncb.de
 cncsystems.de
-cndps.com
 cnew.ir
 cnmsg.net
 coaching-supervision.at
@@ -1459,6 +1459,7 @@ datum2.com
 davidkoh.net
 daviiart.com
 dawin.com
+day-holiday.ru
 day-one.pw
 daymail.life
 daymailonline.com
@@ -1957,11 +1958,9 @@ eveav.com
 everyshop.us
 everytg.ml
 evhybrid.club
-evilcomputer.com
 evkiwi.de
 evolution24.de
 evonb.com
-evopo.com
 evxmail.net
 evyush.com
 ewa.kr
@@ -2147,7 +2146,6 @@ fm69.tk
 fmail.party
 fmail10.de
 fnord.me
-fodmaster21pbjp.cf
 fomohosting.com
 fonsview.ml
 foobarbot.net
@@ -2326,7 +2324,6 @@ getmails.eu
 getnada.com
 getnada.tk
 getnowdirect.com
-getocity.com
 getonemail.net
 getsimpleemail.com
 getstructuredsettlement.com
@@ -2520,7 +2517,6 @@ hairstylesbase.com
 haitibox.com
 haiticadeau.com
 halfpricelistingnj.com
-hallacamail.xyz
 hallovisa.site
 halofarmasi.com
 haltospam.com
@@ -2682,7 +2678,6 @@ hulapla.de
 hulksales.com
 humaility.com
 humn.ws.gy
-hundemassage.de
 hunnur.com
 hurify1.com
 hurramm.us
@@ -2692,7 +2687,6 @@ hvtechnical.com
 hvzoi.com
 hwhealthsystem.com
 hxvxxo1v8mfbt.tk
-hyab.de
 hyipiran.ir
 hypeinteractive.us
 hyperland.tools
@@ -2749,6 +2743,7 @@ iheartspam.org
 iigmail.com
 iigo.de
 iipl.de
+iiron.us
 ik7gzqu2gved2g5wr.tk
 ikaza.info
 ikbenspamvrij.nl
@@ -2810,7 +2805,6 @@ indeedlebeans.com
 indeedtime.us
 indir.red
 indirect.ws
-indoplay303.com
 indoserver.stream
 infest.org
 infitter.ru
@@ -2845,7 +2839,6 @@ instantemailaddress.com
 instantmail.de
 instantmail.fr
 insuranceonlinequotes.info
-integrateinc.com
 intempmail.com
 interactionpolls.com
 interkross.org
@@ -2915,6 +2908,7 @@ itnews-group.ru
 itoasatinal.com
 itoh.de
 itoup.com
+itrental.com
 itri.de
 iuemail.men
 ivecotrucks.tk
@@ -3067,9 +3061,14 @@ kamu-sudahh.top
 kanzanishop.com
 kapumamatata.cf
 kapumamatata.ga
+kapumamatata.gq
 kapumamatata.ml
 kapumamatata.tk
+karibbalakata.cf
 karibbalakata.ga
+karibbalakata.gq
+karibbalakata.ml
+karibbalakata.tk
 karinmk-wolf.eu
 kartinohigh.ru
 kartsitze.de
@@ -3090,7 +3089,6 @@ kejenx.com
 kekita.com
 keluruk.fun
 kematary.ru
-kembangpasir.website
 kemska.pw
 kemulastalk.https443.org
 kenecrehand.port25.biz
@@ -3356,6 +3354,7 @@ located6j.com
 logatarita947.tk
 logfauziyah838.tk
 loghermawaty297.tk
+login-to.online
 loginpage-documentneedtoupload.com
 logmaureen141.tk
 logmoerdiati40.tk
@@ -3937,6 +3936,7 @@ moviesmarket.place
 moviflix.tk
 movx.us
 mowgli.jungleheart.com
+moy-elektrik.ru
 moysat.ru
 moyy.net
 moza.pl
@@ -3994,6 +3994,7 @@ muttvomit.com
 muttwalker.net
 muuyharold.com
 muvilo.net
+muzhskoye.ru
 muzik-fermer.ru
 muzikaper.ru
 mvat.de
@@ -4007,6 +4008,8 @@ mxbin.net
 mxcn.tk
 my-grapes.ru
 my-group223.ru
+my-pomsies.ru
+my-teddyy.ru
 my-top5.ru
 my-webmail.tk
 my-world24.de
@@ -4021,6 +4024,8 @@ myakapulko.gq
 myakapulko.ml
 myakapulko.tk
 myallgaiermogensen.com
+myanny.ru
+mybankcards.ru
 mybisnis.online
 mybitti.de
 myblogos.ru
@@ -4504,7 +4509,6 @@ paharpurmim.tk
 pamapamo.com
 pancakemail.com
 pandafit.ru
-panquecamail.xyz
 paosk.com
 papierkorb.me
 papillionapartments.com
@@ -4828,7 +4832,6 @@ qtask.pro
 qtooth.org
 qtum-ico.com
 querydirect.com
-quesomail.xyz
 questore.co
 queuem.com
 quichebedext.freetcp.com
@@ -5348,6 +5351,7 @@ smartpikes.site
 smashmail.de
 smellfear.com
 smellypotato.tk
+smilevxer.com
 smime.ninja
 smotretvideotut.ru
 smtp33.com
@@ -5553,7 +5557,6 @@ storageunits.app
 store-perfume.ru
 storeclsrn.xyz
 storegmail.com
-storeyee.com
 storeyoga.vip
 storiqax.com
 storiqax.top
@@ -5642,7 +5645,6 @@ suremail.info
 surfmail.tk
 surveyrecruiters.com
 survivalgearsrocks.com
-sushimail.xyz
 sutann.us
 sute.jp
 suzukilab.net
@@ -5704,7 +5706,6 @@ tayohei-official.com
 tbbo.de
 tboostpro.com
 tdnarat.ru
-teambogor.online
 teamrnd.win
 teamster.com
 tech-guru.site
@@ -5881,7 +5882,6 @@ tigmon.club
 tijdelijke-email.nl
 tinoza.org
 tipidkorpoldakalteng.info
-tiramisumail.xyz
 tirreno.tk
 titanit.de
 titaspaharpur2.tk
@@ -6571,6 +6571,7 @@ xjoi.com
 xksovk34k.dns04.com
 xl.cx
 xloveme.top
+xmail.com
 xmaily.com
 xmpr.cf
 xmpr.tk
