@@ -49,9 +49,9 @@ class DomainChecker:
                 server = self.dns_servers[i % 5]
                 if executor.submit(self.check_mx_record, domain, server).result():
                     self.valid_domains.add(domain)
-                    print(f"{domain} is valid by {server}")
-                else:
-                    print(f"{domain} is invalid by {server}")
+                #     print(f"{domain} is valid by {server}")
+                # else:
+                #     print(f"{domain} is invalid by {server}")
 
     def write_domains(self):
         with open('domains.txt', 'w') as f:
