@@ -1,100 +1,92 @@
 import requests
-import validators
-import DoHClient
 import json
+import logging
+import dns.resolver
+from concurrent.futures import ThreadPoolExecutor
+import os
+from collections import deque
+
+logging.basicConfig(format='%(asctime)s %(message)s', filename="validation.log", level=logging.INFO)
 
 
-def main():
-    # Get the invalid domains from the file
-    with open('domains_invalid.txt', 'r') as domains_invalid:
-        domains_invalid = domains_invalid.read().splitlines()
-    print(f"Loaded {len(domains_invalid)} invalid domains saved from your previous run. "
-          f"They will be excluded from the scan.")
+class DomainChecker:
+    def __init__(self, sources):
+        self.sources = sources
+        self.domains = set()
+        self.valid_domains = set()
+        self.dns_servers = ["1.1.1.1", "8.8.8.8", "8.8.4.4", "1.0.0.1", "9.9.9.9"]
 
-    # Get URLs from the sources file
-    with open('sources.txt', 'r') as sources:
-        sources_list = sources.readlines()
-    print(f"Found {len(sources_list)} sources")
+    def fetch_domains(self):
+        for source in self.sources:
+            try:
+                response = requests.get(source)
+                if response.status_code == 200:
+                    content = response.text.strip()
+                    if source.endswith('.json'):
+                        domains = json.loads(content)
+                    else:
+                        domains = content.splitlines()
+                    self.domains.update(domains)
+                    logging.info(f"Successfully fetched {len(domains)} domains from {source} ")
+                else:
+                    logging.info(f"{response.status_code} - Could not fetch data from {source}")
+            except Exception as e:
+                logging.info(f"Exception occurred while fetching data from {source}: {str(e)}")
 
-    # Combine the content from sources urls
-    combined_content = ''
-    for source in sources_list:
-        source = source.strip()
-        response = requests.get(source)
-        if response.status_code == 200:
-            print(f"List contains lines: {len(response.text.splitlines())}")
-            combined_content += response.text
-        else:
-            print(f"{source} could not be accessed")
-            exit(1)
-    print(f"Total lines: {len(combined_content.splitlines())}")
-
-    combined_list = combined_content.splitlines()
-    combined_list_cleaned = []
-
-    # Loop through the combined list and clean up the lines
-    for line in combined_list:
-        line = line.replace('\n', '').replace('"', '').replace(',', '').strip()
-        if line and line not in (combined_list_cleaned or domains_invalid) and validators.domain(line):
-            combined_list_cleaned.append(line)
-    print(f"Total lines after cleaning: {len(combined_list_cleaned)}")
-
-    # Write the cleaned list to a file
-    with open('domains_staged.txt', 'w') as combined_list_file:
-        for line in combined_list_cleaned:
-            combined_list_file.write(f"{line}\n")
-    print(f"Saved {len(combined_list_cleaned)} lines to domains_staged.txt")
-
-    # Check if the domains have MX records
-    combined_list_with_mx = []
-    combined_list_without_mx = []
-    count = 0
-    total_cleaned = len(combined_list_cleaned)
-
-    for domain in combined_list_cleaned:
-        # clean print output
-        print(f"Checking {count} out of {total_cleaned} domains. Percentage complete: {round(count/total_cleaned*100, 2)}%")
-        if has_mx_record(domain):
-            combined_list_with_mx.append(domain)
-        else:
-            combined_list_without_mx.append(domain)
-        count += 1
-
-    # Write to domains.txt
-    with open('domains.txt', 'w') as domains_file:
-        for line in combined_list_with_mx:
-            domains_file.write(f"{line}\n")
-    print(f"Saved {len(combined_list_with_mx)} lines to domains.txt")
-
-    # Write to domains.json
-    with open('domains.json', 'w') as domains_json_file:
-        # Dump the list to a json file
-        domains_json_file.write(f"{json.dumps(combined_list_with_mx, indent=4)}")
-    print(f"Saved {len(combined_list_with_mx)} lines to domains.json")
-
-    # Write combined_list_without_mx to domains_invalid.txt
-    with open('domains_invalid.txt', 'w') as domains_invalid_file:
-        for line in combined_list_without_mx:
-            domains_invalid_file.write(f"{line}\n")
-    print(f"Saved {len(combined_list_without_mx)} lines to domains_invalid.txt")
-
-
-def has_mx_record(domain, query_type='MX'):
-    try:
-        ips = DoHClient.query(name=domain, type=query_type, server='cloudflare-dns.com')
-        ip = ips[0]
-    except Exception as e:
-        # print(f"Unable to resolve: {e}")
-        return None
-    else:
-        # print(f"MX records for {domain}: {ips}")
-        if ip:
-            # print(f"MX records found for {domain}")
-            return True
-        else:
-            # print(f"No MX records found for {domain}")
+    def check_mx_record(self, domain, server):
+        resolver = dns.resolver.Resolver()
+        resolver.nameservers = [server]
+        try:
+            mx_records = resolver.resolve(domain, 'MX')
+            if mx_records:
+                return True
+        except:
             return False
 
+    def filter_domains(self):
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            for i, domain in enumerate(self.domains):
+                server = self.dns_servers[i % 5]
+                if executor.submit(self.check_mx_record, domain, server).result():
+                    self.valid_domains.add(domain)
+                    print(f"{domain} is valid by {server}")
+                else:
+                    print(f"{domain} is invalid by {server}")
 
-if __name__ == '__main__':
-    main()
+    def write_domains(self):
+        with open('domains.txt', 'w') as f:
+            for domain in self.valid_domains:
+                f.write(f"{domain}\n")
+        logging.info(f"Complete. In total {len(self.valid_domains)} valid domains written to domains.txt")
+
+    def write_domains_json(self):
+        with open('domains.json', 'w') as f:
+            json.dump(list(self.valid_domains), f)
+        logging.info(f"Complete. In total {len(self.valid_domains)} valid domains written to domains.json")
+
+    def prune_log(self):
+        try:
+            with open('validation.log', 'r') as f:
+                lines = deque(f, 50)
+            with open('validation.log', 'w') as f:
+                f.writelines(lines)
+        except FileNotFoundError:
+            logging.info("validation.log file not found")
+
+    def run(self):
+        self.fetch_domains()
+        self.filter_domains()
+        self.write_domains()
+        self.write_domains_json()
+        self.prune_log()
+
+
+if __name__ == "__main__":
+
+    sources = []
+    with open('sources.txt', 'r') as f:
+        for line in f:
+            sources.append(line.strip())
+
+    checker = DomainChecker(sources)
+    checker.run()

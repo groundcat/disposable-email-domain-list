@@ -1,5 +1,11 @@
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json
 https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/wildcard.json
-https://gist.githubusercontent.com/michenriksen/8710649/raw/e09ee253960ec1ff0add4f92b62616ebbe24ab87/disposable-email-provider-domains
 https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf
 https://github.com/GeroldSetz/emailondeck.com-domains/raw/master/emailondeck.com_domains_from_bdea.cc.txt
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://raw.githubusercontent.com/tsirolnik/spam-domains-list/master/spamdomains.txt
+https://github.com/zaosoula/email-spam-domains/raw/master/src/custom.txt
+https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt
+https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf
+https://github.com/disposable-email-domains/disposable-email-domains/blob/master/disposable_email_blocklist.conf
+https://raw.githubusercontent.com/disposable/disposable/master/blacklist.txt

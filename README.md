@@ -1,8 +1,14 @@
 # Disposable Email Domain List
 
-This is a list of domains used by temporary or disposable email services.
+This is a list of domains used by disposable email services and spammers.
 
-This list is daily updated and validated by MX scan. It's made as short as possible.
+This list is regularly updated and validated by MX scan.
+
+## Download
+
+[TXT format](https://github.com/groundcat/disposable-email-domain-list/raw/master/domains.txt)
+
+[JSON format](https://github.com/groundcat/disposable-email-domain-list/raw/master/domains.json)
 
 ## What is disposable email?
 
@@ -14,12 +20,7 @@ The administrators could use this list to prevent potentially fraudulent activit
 
 ## Sources
 
-The raw data are sourced from these repositories:
-
-- [ivolo/disposable-email-domains](https://github.com/ivolo/disposable-email-domains)
-- [michenriksen/disposable-email-provider-domains](https://gist.github.com/michenriksen/8710649)
-- [martenson/disposable-email-domains](https://github.com/martenson/disposable-email-domains)
-- [GeroldSetz/emailondeck.com-domains](https://github.com/GeroldSetz/emailondeck.com-domains)
+The raw data are sourced from these [sources](https://github.com/groundcat/disposable-email-domain-list/blob/master/sources.txt).
 
 ## Usage
 
