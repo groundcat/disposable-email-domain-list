@@ -1,8 +1,8 @@
 # Disposable Email Domain List
 
-This is a list of domains used by disposable email services and spammers.
+This is a list of domains frequently associated with disposable email services.
 
-This list is regularly updated and validated by MX scan.
+This list undergoes regular updates and validation through an MX scan.
 
 ## Download
 
@@ -10,17 +10,17 @@ This list is regularly updated and validated by MX scan.
 
 [JSON format](https://github.com/groundcat/disposable-email-domain-list/raw/master/domains.json)
 
-## What is disposable email?
+## What is a disposable email?
 
-[Disposable email addresses](http://en.wikipedia.org/wiki/Disposable_email_address) are known as DEA or dark mail. It is a kind of service that generates a unique or random email address that is used for every contact or entity.
+A [disposable email address](http://en.wikipedia.org/wiki/Disposable_email_address), often referred to as DEA, is a type of service that creates unique or random email addresses for each use or entity. Disposable email addresses are typically used only once and are not intended for receiving future emails.
 
-This repository includes a collection of domains that are used by the disposable email services that are still functioning at the time of the validation.
+While disposable email addresses can be used for spam, they also serve legitimate purposes. Some users employ them to protect their privacy or to manage their online identities. As such, the use of disposable email addresses isn't inherently negative or malicious. 
 
-The administrators could use this list to prevent potentially fraudulent activities.
+The repository herein contains a collection of domains associated with active disposable email services, validated at the time of the scan. Administrators might use this list to mitigate potential risks or to ensure that their users are capable of receiving future communications, when it is a crucial aspect of the service provided.
 
 ## Sources
 
-The raw data are sourced from these [sources](https://github.com/groundcat/disposable-email-domain-list/blob/master/sources.txt).
+The raw data is compiled from these [sources](https://github.com/groundcat/disposable-email-domain-list/blob/master/sources.txt).
 
 ## Usage
 
@@ -34,7 +34,7 @@ Run the script:
 
 ## Contribution
 
-This repository does not accept contribution of new domains because it simply retrieves and cleans data from the sources listed above. However, you can, for example, add new disposable domains to ivolo's [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) repository. Read its [contributing section](https://github.com/ivolo/disposable-email-domains#contributing) for details.
+While this repository doesn't accept direct contributions of new domains (as it gathers and cleanses data from the listed sources), you can contribute to the community's efforts by adding new disposable domains to ivolo's [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) repository. Please refer to its [contributing section](https://github.com/ivolo/disposable-email-domains#contributing) for more details.
 
 ## License
 
