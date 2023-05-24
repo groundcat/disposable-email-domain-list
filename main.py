@@ -15,6 +15,7 @@ class DomainChecker:
         self.domains = set()
         self.valid_domains = set()
         self.dns_servers = ["1.1.1.1", "8.8.8.8", "8.8.4.4", "1.0.0.1", "9.9.9.9"]
+        self.allowlist = set()
 
     def fetch_domains(self):
         for source in self.sources:
@@ -33,6 +34,13 @@ class DomainChecker:
             except Exception as e:
                 logging.info(f"Exception occurred while fetching data from {source}: {str(e)}")
 
+    def fetch_allowlist(self):
+        try:
+            with open('allowlist.txt', 'r') as f:
+                self.allowlist = set(f.read().splitlines())
+        except Exception as e:
+            logging.info(f"Exception occurred while reading the allowlist: {str(e)}")
+
     def check_mx_record(self, domain, server):
         resolver = dns.resolver.Resolver()
         resolver.nameservers = [server]
@@ -49,9 +57,9 @@ class DomainChecker:
                 server = self.dns_servers[i % 5]
                 if executor.submit(self.check_mx_record, domain, server).result():
                     self.valid_domains.add(domain)
-                #     print(f"{domain} is valid by {server}")
-                # else:
-                #     print(f"{domain} is invalid by {server}")
+
+    def exclude_allowlisted_domains(self):
+        self.valid_domains -= self.allowlist
 
     def write_domains(self):
         with open('domains.txt', 'w') as f:
@@ -75,7 +83,9 @@ class DomainChecker:
 
     def run(self):
         self.fetch_domains()
+        self.fetch_allowlist()
         self.filter_domains()
+        self.exclude_allowlisted_domains()
         self.write_domains()
         self.write_domains_json()
         self.prune_log()
