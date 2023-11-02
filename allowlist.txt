@@ -110,7 +110,9 @@ googlemail.com
 h-mail.us
 hailmail.net
 hanmail.net
+hash.fyi
 hey.com
+hideaddress.net
 hitler.rocks
 home.de
 homemail.co.za
@@ -231,6 +233,7 @@ mailmight.com
 mailnew.com
 mailsent.net
 mailservice.ms
+mailsire.com
 mailup.net
 mailworks.org
 memeware.net
@@ -289,6 +292,7 @@ outlook.sa
 outlook.sg
 outlook.sk
 ownmail.net
+passmail.com
 petml.com
 pm.me
 poczta.onet.pl
