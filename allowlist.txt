@@ -398,4 +398,5 @@ yahoo.se
 yandex.ru
 yeah.net
 yepmail.net
+ymail.com
 your-mail.com
