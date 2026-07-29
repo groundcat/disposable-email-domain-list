@@ -3,7 +3,6 @@ from __future__ import annotations
 from dataclasses import dataclass
 from pathlib import Path
 
-
 DEFAULT_RESOLVERS = (
     "1.1.1.1",
     "1.0.0.1",
@@ -26,7 +25,7 @@ class Paths:
     domains_json: Path
 
     @classmethod
-    def from_root(cls, root: Path) -> "Paths":
+    def from_root(cls, root: Path) -> Paths:
         root = root.resolve()
         return cls(
             root=root,
