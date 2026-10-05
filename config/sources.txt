@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/GeroldSetz/emailondeck.com-domains/master/emai
 https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt
 https://raw.githubusercontent.com/disposable-email-domains/disposable-email-domains/master/disposable_email_blocklist.conf
 https://disposable.github.io/disposable-email-domains/domains.txt
+https://raw.githubusercontent.com/catalystprimeagent-bot/disposable-email-domains/main/domains.txt
